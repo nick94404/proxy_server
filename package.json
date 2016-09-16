@@ -1,0 +1,23 @@
+{
+  "name": "proxy-server",
+  "version": "1.0.0",
+  "description": "proxy server",
+  "main": "index.js",
+  "scripts": {
+    "start": "/Users/jwu12/.nvm/versions/node/v6.5.0/bin/node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nick94404/proxy_server.git"
+  },
+  "author": "Jiaren Wu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nick94404/proxy_server/issues"
+  },
+  "homepage": "https://github.com/nick94404/proxy_server#readme",
+  "dependencies": {
+    "request": "^2.74.0",
+    "yargs": "^3.32.0"
+  }
+}
